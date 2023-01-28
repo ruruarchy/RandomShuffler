@@ -32,3 +32,9 @@ number 2 & 4 fix by V4 but the limitation is doesn't have keep_within_area yet, 
 number 1 if using vector layer, its broken goes to somewhere after some clicks, mean to be used for PaintLayer
 
 number 3 mean as shuffle! based anchor, now using center, looks more approriate
+
+
+# Donation :
+you can help me buy new pc/laptop, my hardworking potato laptop is begin to crumbling x'D , the screen got some black spotted screen / dead pixel that gradually expanding, any amount helps, thank youu
+
+https://paypal.me/ruruarchy
