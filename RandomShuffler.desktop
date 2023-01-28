@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=RandomShuffler
+X-Python-2-Compatible=true
+X-Krita-Manual=Manual.html
+Name=RandomShuffler
+Comment=shuffle the selected paint layers :)
+
