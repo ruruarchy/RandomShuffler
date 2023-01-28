@@ -5,6 +5,8 @@ RandomShuffler Plugin for Krita, shuffle layers positions randomly
 
 # Preview :
 under construction :D !
+![Animation](https://user-images.githubusercontent.com/44746952/215260888-17f7da7d-1069-4e29-96c7-e6998e583c2a.gif)
+
 
 # How to Install :
 under construction :D !
