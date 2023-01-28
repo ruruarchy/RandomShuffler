@@ -9,6 +9,16 @@ under construction :D !
 # How to Install :
 under construction :D !
 
+![1](https://user-images.githubusercontent.com/44746952/215260368-72ced9b1-6473-4df5-a71e-b7df3195bcfb.png)
+
+![2](https://user-images.githubusercontent.com/44746952/215260371-edf3a084-c850-4758-b027-6b481171356c.png)
+
+![3](https://user-images.githubusercontent.com/44746952/215260375-0b069bf1-66d0-4bee-9e4f-c217321a2bf9.png)
+
+![4](https://user-images.githubusercontent.com/44746952/215260376-dead619f-b5db-4aef-89c1-26b87d34bf55.png)
+
+![5](https://user-images.githubusercontent.com/44746952/215260379-7067fc4a-61b3-4969-ab0d-294eab26675f.png)
+
 # How to Use :
 
 --shuffle!--
