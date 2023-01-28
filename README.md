@@ -41,6 +41,6 @@ number 3 mean as shuffle! based anchor, now using center, looks more approriate
 
 
 # Donation :
-you can help me buy new pc/laptop, my hardworking potato laptop is begin to crumbling x'D , the screen got some black spotted screen / dead pixel that gradually expanding, any amount helps, thank youu
+you can help me buy new pc/laptop if you wish to, my hardworking potato laptop is begin to crumbling x'D , the screen got some black spotted screen / dead pixel that gradually expanding to whole screen, any amount helps, thank youu
 
 https://paypal.me/ruruarchy
