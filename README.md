@@ -77,6 +77,7 @@ number 1 if using vector layer, its broken goes to somewhere after some clicks, 
 
 number 3 mean as shuffle! based anchor, now using center, looks more approriate
 
+add previews on github
 
 # Donation :
 you can help me buy new pc/laptop if you wish to, my hardworking potato laptop is begin to crumbling x'D , the screen got some black spotted screen / dead pixel that gradually expanding to whole screen, any amount helps, thank youu
