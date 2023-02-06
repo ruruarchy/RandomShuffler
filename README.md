@@ -45,7 +45,7 @@ area_shuffle! + use_non_rectangular_selection
 ![5](https://user-images.githubusercontent.com/44746952/215260379-7067fc4a-61b3-4969-ab0d-294eab26675f.png)
 
 # How to Use :
-edit : see the preview above for visually, basically the same
+edit : see the preview above for the visuals, basically the same
 
 --shuffle!--
 1. select the layers ( at least 2 layers )
