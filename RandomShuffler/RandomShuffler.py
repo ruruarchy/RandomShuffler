@@ -62,7 +62,7 @@ class RandomShufflerDockerClass(DockWidget):                                    
         self.how_to_use_dialog    = QDialog()
         self.warning              = QMessageBox()
 
-        self.how_to_use_dialog .resize(670,440)
+        self.how_to_use_dialog .resize(670,480)
         self.how_to_use_btn    .setText("how_to_use")
         self.shuffle_btn       .setText("shuffle!")
         self.area_shuffle_btn  .setText("area_shuffle!")
@@ -138,12 +138,14 @@ Limitation :
 3. position anchor using topleft of the layers (default)
 4. area_shuffle! selection : rectangular shape only (min x,y max x,y)
 5. area_shuffle! use_non_rectangular_selection can't keep positions within area
+6. beware! be aware : there's no undo yet so we'd better to duplicate the layers first for initial positions, (except if it doesn't matter) <----‼️‼️‼️
 
 Updates :
 V4 -- area_shuffle! use_non_rectangular_selection added
 number 2 & 4 fix by V4 but the limitation is doesn't have keep_within_area yet, seem's complicated
 number 1 if using vector layer, its broken goes to somewhere after some clicks, mean to be used for PaintLayer
 number 3 mean as shuffle! based anchor, now using center, looks more approriate
+add previews on github
 ''')
         
         
