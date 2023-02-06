@@ -20,11 +20,15 @@ area_shuffle! + use_non_rectangular_selection
 # How to Install :
 ~~under construction :D !~~ construction done :> !
 
+0. download the plugin first on this github page
+
+![0](https://user-images.githubusercontent.com/44746952/217007123-25a114d9-9b56-48b1-96ce-a7d6411603c0.png)
+
 1. click Tools > Scripts > Import Python Plugin from File
 
 ![1](https://user-images.githubusercontent.com/44746952/215260368-72ced9b1-6473-4df5-a71e-b7df3195bcfb.png)
 
-2. open the zip file
+2. locate and open the downloaded zip file
 
 ![2](https://user-images.githubusercontent.com/44746952/215260371-edf3a084-c850-4758-b027-6b481171356c.png)
 
