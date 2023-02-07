@@ -24,7 +24,7 @@ area_shuffle! + use_non_rectangular_selection
 
 ![0](https://user-images.githubusercontent.com/44746952/217007123-25a114d9-9b56-48b1-96ce-a7d6411603c0.png)
 
-1. click Tools > Scripts > Import Python Plugin from File
+1. open the Krita, click Tools > Scripts > Import Python Plugin from File
 
 ![1](https://user-images.githubusercontent.com/44746952/215260368-72ced9b1-6473-4df5-a71e-b7df3195bcfb.png)
 
