@@ -32,9 +32,15 @@ area_shuffle! + use_non_rectangular_selection
 
 ![2](https://user-images.githubusercontent.com/44746952/215260371-edf3a084-c850-4758-b027-6b481171356c.png)
 
-3. restart the Krita (click yes, close then re-open the Krita)
+3. restart the Krita (click yes, close the Krita then re-open the Krita)
 
 ![3](https://user-images.githubusercontent.com/44746952/215260375-0b069bf1-66d0-4bee-9e4f-c217321a2bf9.png)
+
+3,5. if you aren't clicking yes, then you need to restart the Krita, enable the plugin, then restart the Krita again
+
+![shortcut33](https://user-images.githubusercontent.com/44746952/216966714-7fba7dfe-f16c-4b2d-a5d5-cafb087a02e9.png)
+
+![3_and_half](https://user-images.githubusercontent.com/44746952/217724086-7e18845e-b8d8-4994-93ab-b7b382fdcd0d.png)
 
 4. go to Settings > Dockers > click Random_Shuffler
 
@@ -92,3 +98,35 @@ https://paypal.me/ruruarchy
 and also special thanks to all Krita developers !
 
 alright :) !
+
+#
+
+edit : 9feb23 o yea i forgot to add this, so i'll add this :
+
+maybe you need to uninstall, or retry installing, here is the procedure:
+
+1. go to Settings > Manage Resources
+
+![110](https://user-images.githubusercontent.com/44746952/217713129-31a648da-fed3-494e-9c29-a6413a0e6e06.png)
+
+2. click Open Resources Folder
+
+![111](https://user-images.githubusercontent.com/44746952/217713133-63c6ed96-c77e-46d3-a7c8-f24e90101724.png)
+
+3. it's in these 2 folders
+
+![111a](https://user-images.githubusercontent.com/44746952/217713136-012d4594-20f1-43e0-8687-708179e1247c.png)
+
+4. delete these files
+
+![111b](https://user-images.githubusercontent.com/44746952/217713140-a2c979c7-0456-4dad-9acf-67e1a6172315.png)
+
+5. delete this one too
+
+![111c](https://user-images.githubusercontent.com/44746952/217713127-3f7b282b-8c36-4979-afa6-3e6cfe0fdaf6.png)
+
+done!
+
+![ok_240x240](https://user-images.githubusercontent.com/44746952/217714559-699f3906-bed0-4d35-96b4-0ca32f03e988.png)
+
+FYI : this was using Krita 5.1.3
